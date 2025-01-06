@@ -4,8 +4,8 @@
   <ShortName>Fluent Docs</ShortName>
   <Description>Search Fluent Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.Fluent.org/docusaurus-template/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.Fluent.org/docusaurus-template/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.Fluent.org/docusaurus-template/opensearch.xml" />
-  <moz:SearchForm>https://docs.Fluent.org/docusaurus-template/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.fluent.org/docusaurus-template/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.fluent.org/docusaurus-template/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.fluent.org/docusaurus-template/opensearch.xml" />
+  <moz:SearchForm>https://docs.fluent.org/docusaurus-template/</moz:SearchForm>
 </OpenSearchDescription>

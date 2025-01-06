@@ -54,46 +54,16 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', '7e2'),
+    component: ComponentCreator('/docusaurus-template/', '127'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '5e7'),
+        component: ComponentCreator('/docusaurus-template/', '937'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', 'c58'),
+            component: ComponentCreator('/docusaurus-template/', '614'),
             routes: [
-              {
-                path: '/docusaurus-template/Developer Guides/metamask/add-shardeum-network',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/metamask/add-shardeum-network', '5f3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Guides/metamask/create-account',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/metamask/create-account', 'a8b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Guides/metamask/installing',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/metamask/installing', '8fa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Guides/metamask/introduction',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/metamask/introduction', '384'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Guides/metamask/sending-transactions',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/metamask/sending-transactions', 'db9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docusaurus-template/Developer Guides/supported-wallets',
                 component: ComponentCreator('/docusaurus-template/Developer Guides/supported-wallets', '319'),
@@ -125,14 +95,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Resources/endpoints',
-                component: ComponentCreator('/docusaurus-template/Resources/endpoints', '52b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Resources/explorer',
-                component: ComponentCreator('/docusaurus-template/Resources/explorer', '152'),
+                path: '/docusaurus-template/Resources/Glossary',
+                component: ComponentCreator('/docusaurus-template/Resources/Glossary', '6ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

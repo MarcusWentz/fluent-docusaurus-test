@@ -62,38 +62,18 @@
     },
     "content": "content---docusaurus-template-test-8-f-8-472"
   },
-  "/docusaurus-template/-7e2": {
+  "/docusaurus-template/-127": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docusaurus-template-aba-7dc"
     }
   },
-  "/docusaurus-template/-5e7": {
+  "/docusaurus-template/-937": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docusaurus-template-bc-4-420"
   },
-  "/docusaurus-template/-c58": {
+  "/docusaurus-template/-614": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docusaurus-template/Developer Guides/metamask/add-shardeum-network-5f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-metamask-add-shardeum-network-517-ec4"
-  },
-  "/docusaurus-template/Developer Guides/metamask/create-account-a8b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-metamask-create-accountb-84-656"
-  },
-  "/docusaurus-template/Developer Guides/metamask/installing-8fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-metamask-installing-9-d-7-03f"
-  },
-  "/docusaurus-template/Developer Guides/metamask/introduction-384": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-metamask-introductiona-69-009"
-  },
-  "/docusaurus-template/Developer Guides/metamask/sending-transactions-db9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-metamask-sending-transactionsf-57-d2d"
   },
   "/docusaurus-template/Developer Guides/supported-wallets-319": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -115,13 +95,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-template-knowledge-base-faucet-statistics-4-d-2-db6"
   },
-  "/docusaurus-template/Resources/endpoints-52b": {
+  "/docusaurus-template/Resources/Glossary-6ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-resources-endpoints-289-0d2"
-  },
-  "/docusaurus-template/Resources/explorer-152": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-resources-explorer-012-e1e"
+    "content": "content---docusaurus-template-resources-glossary-32-a-434"
   },
   "/docusaurus-template/-bb0": {
     "__comp": "__comp---theme-doc-item-178-a40",

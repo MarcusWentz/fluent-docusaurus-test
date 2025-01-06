@@ -96,8 +96,8 @@ module.exports = {
             // className: 'navbar_item_1',
           },
           {
-            href: 'https://github.com/fluentlabs-xyz/',
-            label: 'Report Bugs Here',
+            href: 'https://discord.com/invite/fluentxyz',
+            label: 'Community',
             position: 'left',
             // className: 'navbar_item_2',
           },

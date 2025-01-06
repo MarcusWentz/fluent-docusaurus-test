@@ -11,31 +11,6 @@
           "mainDocId": "quickstart",
           "docs": [
             {
-              "id": "Developer Guides/metamask/add-shardeum-network",
-              "path": "/docusaurus-template/Developer Guides/metamask/add-shardeum-network",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Guides/metamask/create-account",
-              "path": "/docusaurus-template/Developer Guides/metamask/create-account",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Guides/metamask/installing",
-              "path": "/docusaurus-template/Developer Guides/metamask/installing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Guides/metamask/introduction",
-              "path": "/docusaurus-template/Developer Guides/metamask/introduction",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Guides/metamask/sending-transactions",
-              "path": "/docusaurus-template/Developer Guides/metamask/sending-transactions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Developer Guides/supported-wallets",
               "path": "/docusaurus-template/Developer Guides/supported-wallets",
               "sidebar": "tutorialSidebar"
@@ -66,13 +41,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Resources/endpoints",
-              "path": "/docusaurus-template/Resources/endpoints",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Resources/explorer",
-              "path": "/docusaurus-template/Resources/explorer",
+              "id": "Resources/Glossary",
+              "path": "/docusaurus-template/Resources/Glossary",
               "sidebar": "tutorialSidebar"
             }
           ],

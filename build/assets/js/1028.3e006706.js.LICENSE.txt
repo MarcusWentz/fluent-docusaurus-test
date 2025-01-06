@@ -1,4 +1,0 @@
-/**
- * @license
- * [BSD-3-Clause](https://github.com/attentif/unix-timestamp-js/blob/master/LICENSE)
- */
