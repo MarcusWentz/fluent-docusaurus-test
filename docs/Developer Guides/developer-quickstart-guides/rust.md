@@ -83,7 +83,7 @@ impl<SDK: SharedAPI> GREETING<SDK> {
 basic_entrypoint!(GREETING);
 ```
 
-This snippet shows how simple it is to interact with the Fluent VM: just call the SDK, initialize your contract, add the functions, and, if needed, define a custom deployment process. For an in-depth look, check this [guide](../building-a-blended-app.md#id-1.3-write-the-rust-smart-contract).&#x20;
+This snippet shows how simple it is to interact with the Fluent VM: just call the SDK, initialize your contract, add the functions, and, if needed, define a custom deployment process).&#x20;
 
 ### **Compiling the Rust Smart Contract**
 

@@ -10,7 +10,7 @@ sidebar_position: 3
 Before getting started, make sure to install the following:
 
 * npm >= 19
-* [Fluent build tool](./#install-fluent-scaffold-cli-tool)
+* [Fluent build tool]
 
 ## Install Fluent Scaffold CLI Tool
 
