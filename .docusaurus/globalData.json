@@ -11,8 +11,28 @@
           "mainDocId": "quickstart",
           "docs": [
             {
-              "id": "Developer Guides/supported-wallets",
-              "path": "/docusaurus-template/Developer Guides/supported-wallets",
+              "id": "Developer Guides/Building a Blended App",
+              "path": "/docusaurus-template/Developer Guides/Building a Blended App",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guides/developer-quickstart-guides/rust",
+              "path": "/docusaurus-template/Developer Guides/developer-quickstart-guides/rust",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guides/developer-quickstart-guides/solidity",
+              "path": "/docusaurus-template/Developer Guides/developer-quickstart-guides/solidity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guides/developer-quickstart-guides/vyper",
+              "path": "/docusaurus-template/Developer Guides/developer-quickstart-guides/vyper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guides/README",
+              "path": "/docusaurus-template/Developer Guides/",
               "sidebar": "tutorialSidebar"
             },
             {

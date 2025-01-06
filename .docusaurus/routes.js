@@ -54,19 +54,43 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', 'ca3'),
+    component: ComponentCreator('/docusaurus-template/', '1c1'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '291'),
+        component: ComponentCreator('/docusaurus-template/', '2ea'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', '32b'),
+            component: ComponentCreator('/docusaurus-template/', '76d'),
             routes: [
               {
-                path: '/docusaurus-template/Developer Guides/supported-wallets',
-                component: ComponentCreator('/docusaurus-template/Developer Guides/supported-wallets', '319'),
+                path: '/docusaurus-template/Developer Guides/',
+                component: ComponentCreator('/docusaurus-template/Developer Guides/', '5b7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Developer Guides/Building a Blended App',
+                component: ComponentCreator('/docusaurus-template/Developer Guides/Building a Blended App', 'dc5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Developer Guides/developer-quickstart-guides/rust',
+                component: ComponentCreator('/docusaurus-template/Developer Guides/developer-quickstart-guides/rust', '4a0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Developer Guides/developer-quickstart-guides/solidity',
+                component: ComponentCreator('/docusaurus-template/Developer Guides/developer-quickstart-guides/solidity', '030'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Developer Guides/developer-quickstart-guides/vyper',
+                component: ComponentCreator('/docusaurus-template/Developer Guides/developer-quickstart-guides/vyper', 'e15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

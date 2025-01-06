@@ -62,22 +62,38 @@
     },
     "content": "content---docusaurus-template-test-8-f-8-472"
   },
-  "/docusaurus-template/-ca3": {
+  "/docusaurus-template/-1c1": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docusaurus-template-aba-7dc"
     }
   },
-  "/docusaurus-template/-291": {
+  "/docusaurus-template/-2ea": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docusaurus-template-bc-4-420"
   },
-  "/docusaurus-template/-32b": {
+  "/docusaurus-template/-76d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docusaurus-template/Developer Guides/supported-wallets-319": {
+  "/docusaurus-template/Developer Guides/-5b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-developer-guides-supported-wallets-554-0ec"
+    "content": "content---docusaurus-template-developer-guides-204-29d"
+  },
+  "/docusaurus-template/Developer Guides/Building a Blended App-dc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-developer-guides-building-a-blended-appb-98-b9c"
+  },
+  "/docusaurus-template/Developer Guides/developer-quickstart-guides/rust-4a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-developer-guides-developer-quickstart-guides-rustb-8-f-171"
+  },
+  "/docusaurus-template/Developer Guides/developer-quickstart-guides/solidity-030": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-developer-guides-developer-quickstart-guides-solidity-0-b-8-a65"
+  },
+  "/docusaurus-template/Developer Guides/developer-quickstart-guides/vyper-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-developer-guides-developer-quickstart-guides-vyper-541-341"
   },
   "/docusaurus-template/Developer Preview/Build with the Fluentbase SDK-70f": {
     "__comp": "__comp---theme-doc-item-178-a40",
