@@ -4,7 +4,7 @@ This website is built using [Docusaurus 3.6.3](https://docusaurus.io/), a modern
 
 ### GitHub Pages Hosted Website
 
-https://marcuswentz.github.io/docusaurus-template/
+https://marcuswentz.github.io/fluent-docusaurus-test/
 
 ### Installation
 
