@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', 'ad8'),
+    component: ComponentCreator('/docusaurus-template/', '7e2'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '19c'),
+        component: ComponentCreator('/docusaurus-template/', '5e7'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', '131'),
+            component: ComponentCreator('/docusaurus-template/', 'c58'),
             routes: [
               {
                 path: '/docusaurus-template/Developer Guides/metamask/add-shardeum-network',
@@ -101,26 +101,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docusaurus-template/Developer Preview/Build with the Fluentbase SDK',
+                component: ComponentCreator('/docusaurus-template/Developer Preview/Build with the Fluentbase SDK', '70f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docusaurus-template/Developer Preview/Connect to the Fluent Devnet',
                 component: ComponentCreator('/docusaurus-template/Developer Preview/Connect to the Fluent Devnet', '4b9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Preview/types copy',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy', 'e55'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Preview/types copy 2',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy 2', '0c2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Developer Preview/types copy 3',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy 3', 'e92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

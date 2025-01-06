@@ -70,6 +70,11 @@ export default {
           "position": "left"
         },
         {
+          "href": "https://blockscout.dev.gblend.xyz/",
+          "label": "Block Explorer",
+          "position": "left"
+        },
+        {
           "href": "https://www.google.com/",
           "label": "List dApp on Ecosystem Page",
           "position": "left"

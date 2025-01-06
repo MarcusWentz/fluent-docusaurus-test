@@ -41,23 +41,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Developer Preview/Build with the Fluentbase SDK",
+              "path": "/docusaurus-template/Developer Preview/Build with the Fluentbase SDK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Developer Preview/Connect to the Fluent Devnet",
               "path": "/docusaurus-template/Developer Preview/Connect to the Fluent Devnet",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Preview/types copy",
-              "path": "/docusaurus-template/Developer Preview/types copy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Preview/types copy 2",
-              "path": "/docusaurus-template/Developer Preview/types copy 2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer Preview/types copy 3",
-              "path": "/docusaurus-template/Developer Preview/types copy 3",
               "sidebar": "tutorialSidebar"
             },
             {

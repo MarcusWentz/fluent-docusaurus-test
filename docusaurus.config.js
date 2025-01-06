@@ -84,6 +84,12 @@ module.exports = {
             // className: 'navbar_item_button',
           },
           {
+            href: 'https://blockscout.dev.gblend.xyz/',
+            label: 'Block Explorer',
+            position: 'left',
+            // className: 'navbar_item_button',
+          },
+          {
             href: 'https://www.google.com/',
             label: 'List dApp on Ecosystem Page',
             position: 'left',
