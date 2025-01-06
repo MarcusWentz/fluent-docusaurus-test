@@ -20,9 +20,5 @@
   "previous": {
     "title": "Lighthouse",
     "permalink": "/docusaurus-template/storage/lighthouse"
-  },
-  "next": {
-    "title": "SupraOracles",
-    "permalink": "/docusaurus-template/oracles/supraoracles"
   }
 }

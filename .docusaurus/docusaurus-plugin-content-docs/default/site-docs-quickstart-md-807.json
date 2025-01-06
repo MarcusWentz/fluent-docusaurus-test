@@ -1,7 +1,7 @@
 {
   "id": "quickstart",
   "title": "Quickstart",
-  "description": "Shardeum Overview",
+  "description": "---",
   "source": "@site/docs/quickstart.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Overview",
-    "permalink": "/docusaurus-template/introduction/what-is-shardeum"
+    "title": "Types",
+    "permalink": "/docusaurus-template/Developer Preview/types"
   }
 }

@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Fluent Docs',
   tagline: 'Explore Fluent Docs',
-  url: 'https://docs.Fluent.org',
+  url: 'https://docs.fluent.org',
   baseUrl: '/docusaurus-template/',
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'warn',
@@ -110,78 +110,22 @@ module.exports = {
             items: [
               {
                 label: 'Home',
-                to: 'https://Fluent.org',
+                to: 'https://fluent.xyz',
               },
-              {
-                href: '/faucet/claim',
-                label: 'Claim 100 Testnet SHM',
-                position: 'left',
-
-              },
-              {
-                label: 'Super Shardians',
-                to: 'https://Fluent.org/super-shardian/',
-              },
-              {
-                label: 'Blog',
-                to: 'https://Fluent.org/blog',
-              },
-              {
-                label: 'Languages',
-                to: 'https://docs.Fluent.org/community#global-discord-channels',
-              },
-
             ],
           },
           {
             title: 'Community',
             items: [
-              // {
-              //   label: 'Telegram',
-              //   to: 'https://t.me/Fluent',
-              // },
               {
                 label: 'Discord',
                 to: 'https://discord.com/invite/fluentxyz',
               },
-              // {
-              //   label: 'Twitter',
-              //   to: 'https://twitter.com/Fluent',
-              // },
             ],
           },
           {
             title: 'Resources',
             items: [
-              {
-                label: 'Litepaper',
-                to: 'https://Fluent.org/Fluent-Litepaper.pdf',
-              },
-              {
-                label: 'FAQs',
-                to: 'https://docs.google.com/document/d/1RilXqwJN6hupaKdrXhk2RF9gl_DS5qY3uPm6iII3Xyg/edit?usp=sharing',
-              },
-              {
-                label: 'Brand Assets Page',
-                to: 'https://drive.google.com/drive/folders/1jdjJNMajHG_QDu_uAXTRrqpXW3AUuiJu',
-              },
-              {
-                label: 'Public Drive Link',
-                to: 'https://drive.google.com/drive/folders/1zal5vN3f67Ql-Q8jiSYsp6Nf0xoJuqNI',
-              },
-            ],
-          },
-          {
-            title: 'Contact',
-            items: [
-              {
-                label: 'General Inquiries',
-                to: 'mailto:hi@Fluent.org',
-              },
-              {
-                label: 'Investment Purpose',
-                to: 'mailto:invest@Fluent.org',
-              },
               {
                 label: 'GitHub',
                 to: 'https://github.com/fluentlabs-xyz/',
@@ -191,7 +135,7 @@ module.exports = {
         ],
         logo: {
           alt: 'Fluent Logo',
-          src: 'img/fluent.png',
+          src: 'img/fluent_logo.png',
           href: 'https://github.com/fluentlabs-xyz/',
           height: 100,
           width: 100

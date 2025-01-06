@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Polling Cycles",
-    "permalink": "/docusaurus-template/smartContracts/events/pollEvents"
+    "title": "Explorer",
+    "permalink": "/docusaurus-template/Resources/explorer"
   },
   "next": {
     "title": "IPFS And Filecoin",

@@ -20,7 +20,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Supported Wallets",
-    "permalink": "/docusaurus-template/wallets/supported-wallets"
+    "permalink": "/docusaurus-template/Developer Guides/supported-wallets"
   },
   "next": {
     "title": "Faucet Statistics",

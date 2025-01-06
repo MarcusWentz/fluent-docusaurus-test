@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Overview",
-    "permalink": "/docusaurus-template/introduction/what-is-shardeum"
+    "title": "Quickstart",
+    "permalink": "/docusaurus-template/"
   },
   "next": {
     "title": "Validator",
