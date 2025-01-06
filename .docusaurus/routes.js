@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', 'eae'),
+    component: ComponentCreator('/docusaurus-template/', 'ad8'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '7a0'),
+        component: ComponentCreator('/docusaurus-template/', '19c'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', 'fca'),
+            component: ComponentCreator('/docusaurus-template/', '131'),
             routes: [
               {
                 path: '/docusaurus-template/Developer Guides/metamask/add-shardeum-network',
@@ -101,26 +101,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Developer Preview/run/archive',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/run/archive', '40d'),
+                path: '/docusaurus-template/Developer Preview/Connect to the Fluent Devnet',
+                component: ComponentCreator('/docusaurus-template/Developer Preview/Connect to the Fluent Devnet', '4b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Developer Preview/run/rpc',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/run/rpc', '8b3'),
+                path: '/docusaurus-template/Developer Preview/types copy',
+                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy', 'e55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Developer Preview/run/validator',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/run/validator', '8c1'),
+                path: '/docusaurus-template/Developer Preview/types copy 2',
+                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy 2', '0c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Developer Preview/types',
-                component: ComponentCreator('/docusaurus-template/Developer Preview/types', 'e0e'),
+                path: '/docusaurus-template/Developer Preview/types copy 3',
+                component: ComponentCreator('/docusaurus-template/Developer Preview/types copy 3', 'e92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

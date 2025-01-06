@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Types",
-    "permalink": "/docusaurus-template/Developer Preview/types"
+    "title": "Connect to the Fluent Devnet",
+    "permalink": "/docusaurus-template/Developer Preview/Connect to the Fluent Devnet"
   }
 }

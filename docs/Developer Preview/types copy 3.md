@@ -1,6 +1,6 @@
 ---
-title: Types
-sidebar_position: 1
+title: Three
+sidebar_position: 3
 ---
 
 # Node Types

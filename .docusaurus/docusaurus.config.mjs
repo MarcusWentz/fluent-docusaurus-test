@@ -60,7 +60,7 @@ export default {
       },
       "items": [
         {
-          "href": "/network/endpoints#connect-wallet",
+          "href": "https://chainlist.org/?search=fluent&testnets=true",
           "label": "Connect to Fluent",
           "position": "left"
         },
