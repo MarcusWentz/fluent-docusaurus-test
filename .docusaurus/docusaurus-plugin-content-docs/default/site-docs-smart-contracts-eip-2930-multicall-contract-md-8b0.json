@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/EIP-2930/multicallContract",
+  "title": "Multicall Contract",
+  "description": "What is EIP-2930?",
+  "source": "@site/docs/smartContracts/EIP-2930/multicallContract.md",
+  "sourceDirName": "smartContracts/EIP-2930",
+  "slug": "/smartContracts/EIP-2930/multicallContract",
+  "permalink": "/docusaurus-template/smartContracts/EIP-2930/multicallContract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/EIP-2930/multicallContract.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Multicall Contract",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Address List",
+    "permalink": "/docusaurus-template/smartContracts/tokens/addressList"
+  },
+  "next": {
+    "title": "Solidity Interfaces",
+    "permalink": "/docusaurus-template/smartContracts/EIP-2930/solidityInterfaces"
+  }
+}

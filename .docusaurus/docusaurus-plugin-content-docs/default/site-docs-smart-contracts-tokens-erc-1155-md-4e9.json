@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/tokens/ERC-1155",
+  "title": "ERC-1155",
+  "description": "What is an ERC-1155?",
+  "source": "@site/docs/smartContracts/tokens/ERC-1155.md",
+  "sourceDirName": "smartContracts/tokens",
+  "slug": "/smartContracts/tokens/ERC-1155",
+  "permalink": "/docusaurus-template/smartContracts/tokens/ERC-1155",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/tokens/ERC-1155.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "ERC-1155",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERC-721",
+    "permalink": "/docusaurus-template/smartContracts/tokens/ERC-721"
+  },
+  "next": {
+    "title": "Address List",
+    "permalink": "/docusaurus-template/smartContracts/tokens/addressList"
+  }
+}

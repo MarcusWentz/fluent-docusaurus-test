@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/deploy/hardhat",
+  "title": "Hardhat",
+  "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. It helps developers manage and automate the recurring tasks inherent to the process of building smart contracts and dApps and easily introduces more functionality around this workflow. This means compiling, running and testing smart contracts at the very core.",
+  "source": "@site/docs/smartContracts/deploy/hardhat.md",
+  "sourceDirName": "smartContracts/deploy",
+  "slug": "/smartContracts/deploy/hardhat",
+  "permalink": "/docusaurus-template/smartContracts/deploy/hardhat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/deploy/hardhat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hardhat",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Foundry",
+    "permalink": "/docusaurus-template/smartContracts/deploy/foundry"
+  },
+  "next": {
+    "title": "Truffle",
+    "permalink": "/docusaurus-template/smartContracts/deploy/truffle"
+  }
+}

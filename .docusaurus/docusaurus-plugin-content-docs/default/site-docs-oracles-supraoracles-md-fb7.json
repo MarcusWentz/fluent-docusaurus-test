@@ -1,0 +1,28 @@
+{
+  "id": "oracles/supraoracles",
+  "title": "SupraOracles",
+  "description": "What is SupraOracles?",
+  "source": "@site/docs/oracles/supraoracles.md",
+  "sourceDirName": "oracles",
+  "slug": "/oracles/supraoracles",
+  "permalink": "/docusaurus-template/oracles/supraoracles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/oracles/supraoracles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "SupraOracles",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pinata",
+    "permalink": "/docusaurus-template/storage/pinata"
+  },
+  "next": {
+    "title": "General",
+    "permalink": "/docusaurus-template/faqs/general"
+  }
+}

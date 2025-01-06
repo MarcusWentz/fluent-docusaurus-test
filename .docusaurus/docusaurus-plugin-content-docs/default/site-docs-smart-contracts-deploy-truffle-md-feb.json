@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/deploy/truffle",
+  "title": "Truffle",
+  "description": "Truffle is a world-class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.",
+  "source": "@site/docs/smartContracts/deploy/truffle.md",
+  "sourceDirName": "smartContracts/deploy",
+  "slug": "/smartContracts/deploy/truffle",
+  "permalink": "/docusaurus-template/smartContracts/deploy/truffle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/deploy/truffle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Truffle",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardhat",
+    "permalink": "/docusaurus-template/smartContracts/deploy/hardhat"
+  },
+  "next": {
+    "title": "Same Address Cross Chain",
+    "permalink": "/docusaurus-template/smartContracts/deploy/sameAddress"
+  }
+}

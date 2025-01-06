@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/tokens/ERC-721",
+  "title": "ERC-721",
+  "description": "What are NFTs?",
+  "source": "@site/docs/smartContracts/tokens/ERC-721.md",
+  "sourceDirName": "smartContracts/tokens",
+  "slug": "/smartContracts/tokens/ERC-721",
+  "permalink": "/docusaurus-template/smartContracts/tokens/ERC-721",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/tokens/ERC-721.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "ERC-721",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERC-20",
+    "permalink": "/docusaurus-template/smartContracts/tokens/ERC-20"
+  },
+  "next": {
+    "title": "ERC-1155",
+    "permalink": "/docusaurus-template/smartContracts/tokens/ERC-1155"
+  }
+}

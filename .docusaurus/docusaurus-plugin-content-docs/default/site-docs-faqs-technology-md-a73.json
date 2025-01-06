@@ -1,0 +1,28 @@
+{
+  "id": "faqs/technology",
+  "title": "Technology",
+  "description": "Will Shardeum maintain atomic composability across different shards?",
+  "source": "@site/docs/faqs/technology.md",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/technology",
+  "permalink": "/docusaurus-template/faqs/technology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/faqs/technology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Technology",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "General",
+    "permalink": "/docusaurus-template/faqs/general"
+  },
+  "next": {
+    "title": "Validator",
+    "permalink": "/docusaurus-template/faqs/validators"
+  }
+}

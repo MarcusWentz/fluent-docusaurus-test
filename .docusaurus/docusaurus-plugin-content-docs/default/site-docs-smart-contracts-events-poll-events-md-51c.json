@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/events/pollEvents",
+  "title": "Polling Cycles",
+  "description": "What are smart contract events?",
+  "source": "@site/docs/smartContracts/events/pollEvents.md",
+  "sourceDirName": "smartContracts/events",
+  "slug": "/smartContracts/events/pollEvents",
+  "permalink": "/docusaurus-template/smartContracts/events/pollEvents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/events/pollEvents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Polling Cycles",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solidity Interfaces",
+    "permalink": "/docusaurus-template/smartContracts/EIP-2930/solidityInterfaces"
+  },
+  "next": {
+    "title": "EVM Storage",
+    "permalink": "/docusaurus-template/storage/storageEVM"
+  }
+}

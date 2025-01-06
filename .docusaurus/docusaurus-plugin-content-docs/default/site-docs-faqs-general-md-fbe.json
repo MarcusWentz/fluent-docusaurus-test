@@ -1,0 +1,28 @@
+{
+  "id": "faqs/general",
+  "title": "General",
+  "description": "What is Shardeum?",
+  "source": "@site/docs/faqs/general.md",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/general",
+  "permalink": "/docusaurus-template/faqs/general",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/faqs/general.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "General",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SupraOracles",
+    "permalink": "/docusaurus-template/oracles/supraoracles"
+  },
+  "next": {
+    "title": "Technology",
+    "permalink": "/docusaurus-template/faqs/technology"
+  }
+}

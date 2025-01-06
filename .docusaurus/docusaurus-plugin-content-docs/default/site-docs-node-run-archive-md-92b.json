@@ -1,0 +1,28 @@
+{
+  "id": "node/run/archive",
+  "title": "Archive",
+  "description": "Why run an archive?",
+  "source": "@site/docs/node/run/archive.md",
+  "sourceDirName": "node/run",
+  "slug": "/node/run/archive",
+  "permalink": "/docusaurus-template/node/run/archive",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/node/run/archive.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Archive",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RPC",
+    "permalink": "/docusaurus-template/node/run/rpc"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docusaurus-template/wallets/metamask/introduction"
+  }
+}

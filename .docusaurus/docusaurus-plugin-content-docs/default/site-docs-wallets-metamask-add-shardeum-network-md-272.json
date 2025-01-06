@@ -1,0 +1,28 @@
+{
+  "id": "wallets/metamask/add-shardeum-network",
+  "title": "Adding Shardeum Network",
+  "description": "Adding Shardeum Network to MetaMask",
+  "source": "@site/docs/wallets/metamask/add-shardeum-network.md",
+  "sourceDirName": "wallets/metamask",
+  "slug": "/wallets/metamask/add-shardeum-network",
+  "permalink": "/docusaurus-template/wallets/metamask/add-shardeum-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/wallets/metamask/add-shardeum-network.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Adding Shardeum Network",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing",
+    "permalink": "/docusaurus-template/wallets/metamask/installing"
+  },
+  "next": {
+    "title": "Create Account",
+    "permalink": "/docusaurus-template/wallets/metamask/create-account"
+  }
+}

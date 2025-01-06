@@ -1,0 +1,28 @@
+{
+  "id": "network/endpoints",
+  "title": "Endpoints",
+  "description": "Sphinx 1.X",
+  "source": "@site/docs/network/endpoints.mdx",
+  "sourceDirName": "network",
+  "slug": "/network/endpoints",
+  "permalink": "/docusaurus-template/network/endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/network/endpoints.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Endpoints",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Faucet Statistics",
+    "permalink": "/docusaurus-template/faucet/faucetStatistics"
+  },
+  "next": {
+    "title": "Explorer",
+    "permalink": "/docusaurus-template/network/explorer"
+  }
+}

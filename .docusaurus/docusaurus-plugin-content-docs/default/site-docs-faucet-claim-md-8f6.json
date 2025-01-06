@@ -1,0 +1,29 @@
+{
+  "id": "faucet/claim",
+  "title": "Claim Testnet SHM",
+  "description": "Shardeum Discord Faucet",
+  "source": "@site/docs/faucet/claim.md",
+  "sourceDirName": "faucet",
+  "slug": "/faucet/claim",
+  "permalink": "/docusaurus-template/faucet/claim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/faucet/claim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Claim Testnet SHM",
+    "sidebar_position": 1,
+    "image": "/img/claim/claim_9.jpeg"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supported Wallets",
+    "permalink": "/docusaurus-template/wallets/supported-wallets"
+  },
+  "next": {
+    "title": "Faucet Statistics",
+    "permalink": "/docusaurus-template/faucet/faucetStatistics"
+  }
+}

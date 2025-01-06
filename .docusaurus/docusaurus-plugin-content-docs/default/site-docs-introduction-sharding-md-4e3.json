@@ -1,0 +1,28 @@
+{
+  "id": "introduction/Sharding",
+  "title": "Sharding",
+  "description": "Sharding is a network architecture that enables parallel processing to achieve increased transaction throughput and greater performance. It involves breaking the network into smaller, more manageable pieces called \"shards.\" Each shard processes a portion of the network's transactions independently, thus allowing for parallel processing and increasing the network's overall capacity.",
+  "source": "@site/docs/introduction/Sharding.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/Sharding",
+  "permalink": "/docusaurus-template/introduction/Sharding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/introduction/Sharding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Sharding",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docusaurus-template/introduction/what-is-shardeum"
+  },
+  "next": {
+    "title": "Dynamic State Sharding",
+    "permalink": "/docusaurus-template/introduction/dynamicstatesharding"
+  }
+}

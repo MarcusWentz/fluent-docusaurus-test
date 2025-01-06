@@ -1,0 +1,28 @@
+{
+  "id": "introduction/opcodes",
+  "title": "Shardeum Liberty Opcodes",
+  "description": "Blocks work differently in Shardeum because transactions are processed individually and not grouped into blocks. However, generating blocks at a specific interval is still required to support the existing smart contracts, which use block-related opcodes and comply with the JSON RPC specifications.",
+  "source": "@site/docs/introduction/opcodes.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/opcodes",
+  "permalink": "/docusaurus-template/introduction/opcodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/introduction/opcodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Shardeum Liberty Opcodes",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethereum Virtual Machine",
+    "permalink": "/docusaurus-template/introduction/evm"
+  },
+  "next": {
+    "title": "Types",
+    "permalink": "/docusaurus-template/node/types"
+  }
+}

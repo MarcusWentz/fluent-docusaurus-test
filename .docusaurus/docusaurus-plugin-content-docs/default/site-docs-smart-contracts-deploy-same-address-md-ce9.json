@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/deploy/sameAddress",
+  "title": "Same Address Cross Chain",
+  "description": "Keep track of the same contracts cross chain easily",
+  "source": "@site/docs/smartContracts/deploy/sameAddress.md",
+  "sourceDirName": "smartContracts/deploy",
+  "slug": "/smartContracts/deploy/sameAddress",
+  "permalink": "/docusaurus-template/smartContracts/deploy/sameAddress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/deploy/sameAddress.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Same Address Cross Chain",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Truffle",
+    "permalink": "/docusaurus-template/smartContracts/deploy/truffle"
+  },
+  "next": {
+    "title": "ERC-20",
+    "permalink": "/docusaurus-template/smartContracts/tokens/ERC-20"
+  }
+}

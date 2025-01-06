@@ -1,0 +1,28 @@
+{
+  "id": "wallets/supported-wallets",
+  "title": "Supported Wallets",
+  "description": "MetaMask",
+  "source": "@site/docs/wallets/supported-wallets.md",
+  "sourceDirName": "wallets",
+  "slug": "/wallets/supported-wallets",
+  "permalink": "/docusaurus-template/wallets/supported-wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/wallets/supported-wallets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Supported Wallets",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sending SHM",
+    "permalink": "/docusaurus-template/wallets/metamask/sending-transactions"
+  },
+  "next": {
+    "title": "Claim Testnet SHM",
+    "permalink": "/docusaurus-template/faucet/claim"
+  }
+}

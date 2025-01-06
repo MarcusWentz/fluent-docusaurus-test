@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/deploy/foundry",
+  "title": "Foundry",
+  "description": "Foundry is a fast testing and deployment tool for developing EVM smart contracts.",
+  "source": "@site/docs/smartContracts/deploy/foundry.md",
+  "sourceDirName": "smartContracts/deploy",
+  "slug": "/smartContracts/deploy/foundry",
+  "permalink": "/docusaurus-template/smartContracts/deploy/foundry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/deploy/foundry.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Foundry",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remix IDE",
+    "permalink": "/docusaurus-template/smartContracts/deploy/remix"
+  },
+  "next": {
+    "title": "Hardhat",
+    "permalink": "/docusaurus-template/smartContracts/deploy/hardhat"
+  }
+}

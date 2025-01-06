@@ -1,0 +1,28 @@
+{
+  "id": "storage/pinata",
+  "title": "Pinata",
+  "description": "What is Pinata?",
+  "source": "@site/docs/storage/pinata.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/pinata",
+  "permalink": "/docusaurus-template/storage/pinata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/storage/pinata.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Pinata",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lighthouse",
+    "permalink": "/docusaurus-template/storage/lighthouse"
+  },
+  "next": {
+    "title": "SupraOracles",
+    "permalink": "/docusaurus-template/oracles/supraoracles"
+  }
+}

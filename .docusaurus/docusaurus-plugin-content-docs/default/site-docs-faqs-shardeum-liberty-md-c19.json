@@ -1,0 +1,24 @@
+{
+  "id": "faqs/shardeum-liberty",
+  "title": "Shardeum Liberty",
+  "description": "What is Shardeum?",
+  "source": "@site/docs/faqs/shardeum-liberty.md",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/shardeum-liberty",
+  "permalink": "/docusaurus-template/faqs/shardeum-liberty",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/faqs/shardeum-liberty.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Shardeum Liberty",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validator",
+    "permalink": "/docusaurus-template/faqs/validators"
+  }
+}

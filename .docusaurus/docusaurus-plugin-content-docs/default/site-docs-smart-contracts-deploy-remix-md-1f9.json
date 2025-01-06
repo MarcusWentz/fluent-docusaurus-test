@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/deploy/remix",
+  "title": "Remix IDE",
+  "description": "Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as act as a playground for learning and teaching Ethereum.",
+  "source": "@site/docs/smartContracts/deploy/remix.md",
+  "sourceDirName": "smartContracts/deploy",
+  "slug": "/smartContracts/deploy/remix",
+  "permalink": "/docusaurus-template/smartContracts/deploy/remix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/deploy/remix.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Remix IDE",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Explorer",
+    "permalink": "/docusaurus-template/network/explorer"
+  },
+  "next": {
+    "title": "Foundry",
+    "permalink": "/docusaurus-template/smartContracts/deploy/foundry"
+  }
+}

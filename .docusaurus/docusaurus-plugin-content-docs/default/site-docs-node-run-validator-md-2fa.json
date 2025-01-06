@@ -1,0 +1,28 @@
+{
+  "id": "node/run/validator",
+  "title": "Validator",
+  "description": "Benefits of operating a validator",
+  "source": "@site/docs/node/run/validator.md",
+  "sourceDirName": "node/run",
+  "slug": "/node/run/validator",
+  "permalink": "/docusaurus-template/node/run/validator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/node/run/validator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Validator",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Types",
+    "permalink": "/docusaurus-template/node/types"
+  },
+  "next": {
+    "title": "RPC",
+    "permalink": "/docusaurus-template/node/run/rpc"
+  }
+}

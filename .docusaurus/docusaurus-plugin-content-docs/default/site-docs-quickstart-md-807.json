@@ -1,0 +1,25 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Shardeum Overview",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docusaurus-template/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Quickstart",
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Overview",
+    "permalink": "/docusaurus-template/introduction/what-is-shardeum"
+  }
+}

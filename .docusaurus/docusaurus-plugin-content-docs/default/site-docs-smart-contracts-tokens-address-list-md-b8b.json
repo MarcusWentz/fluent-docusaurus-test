@@ -1,0 +1,28 @@
+{
+  "id": "smartContracts/tokens/addressList",
+  "title": "Address List",
+  "description": "Betanet 1.X Addresses",
+  "source": "@site/docs/smartContracts/tokens/addressList.md",
+  "sourceDirName": "smartContracts/tokens",
+  "slug": "/smartContracts/tokens/addressList",
+  "permalink": "/docusaurus-template/smartContracts/tokens/addressList",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/smartContracts/tokens/addressList.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Address List",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERC-1155",
+    "permalink": "/docusaurus-template/smartContracts/tokens/ERC-1155"
+  },
+  "next": {
+    "title": "Multicall Contract",
+    "permalink": "/docusaurus-template/smartContracts/EIP-2930/multicallContract"
+  }
+}

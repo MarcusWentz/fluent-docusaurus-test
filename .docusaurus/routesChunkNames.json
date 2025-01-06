@@ -1,0 +1,250 @@
+{
+  "/docusaurus-template/__docusaurus/debug-14a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/__docusaurus/debug/config-7e2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/__docusaurus/debug/content-960": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    },
+    "__props": "__props---docusaurus-template-docusaurus-debug-contentbb-1-917"
+  },
+  "/docusaurus-template/__docusaurus/debug/globalData-43d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/__docusaurus/debug/metadata-2ea": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/__docusaurus/debug/registry-6ff": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/__docusaurus/debug/routes-303": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-docusaurus-debugb-38-5e6"
+    }
+  },
+  "/docusaurus-template/markdown-page-59e": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-markdown-pagea-74-a3f"
+    },
+    "content": "content---docusaurus-template-markdown-page-393-41e"
+  },
+  "/docusaurus-template/search-b74": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-searchc-14-39c"
+    }
+  },
+  "/docusaurus-template/test-6cf": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-markdown-pagea-74-a3f"
+    },
+    "content": "content---docusaurus-template-test-8-f-8-472"
+  },
+  "/docusaurus-template/-18d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docusaurus-template-aba-7dc"
+    }
+  },
+  "/docusaurus-template/-f5b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docusaurus-template-bc-4-420"
+  },
+  "/docusaurus-template/-62e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docusaurus-template/faqs/general-2f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faqs-generalfbe-aa5"
+  },
+  "/docusaurus-template/faqs/shardeum-liberty-263": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faqs-shardeum-libertyc-19-a0d"
+  },
+  "/docusaurus-template/faqs/technology-5f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faqs-technologya-73-860"
+  },
+  "/docusaurus-template/faqs/validators-541": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faqs-validators-3-e-8-8f6"
+  },
+  "/docusaurus-template/faucet/claim-9a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faucet-claim-8-f-6-b4a"
+  },
+  "/docusaurus-template/faucet/faucetStatistics-7f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-faucet-faucet-statisticsdf-5-a6d"
+  },
+  "/docusaurus-template/introduction/consensus-154": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-consensus-747-75a"
+  },
+  "/docusaurus-template/introduction/dynamicstatesharding-0e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-dynamicstateshardingf-0-f-b4d"
+  },
+  "/docusaurus-template/introduction/evm-72e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-evm-143-65f"
+  },
+  "/docusaurus-template/introduction/opcodes-988": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-opcodesdc-6-6b8"
+  },
+  "/docusaurus-template/introduction/Sharding-d90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-sharding-4-e-3-93d"
+  },
+  "/docusaurus-template/introduction/what-is-shardeum-483": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-introduction-what-is-shardeum-576-0db"
+  },
+  "/docusaurus-template/network/endpoints-434": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-network-endpoints-3-df-9cc"
+  },
+  "/docusaurus-template/network/explorer-e65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-network-explorer-02-e-010"
+  },
+  "/docusaurus-template/node/run/archive-add": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-node-run-archive-92-b-4f4"
+  },
+  "/docusaurus-template/node/run/rpc-a85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-node-run-rpc-52-a-71f"
+  },
+  "/docusaurus-template/node/run/validator-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-node-run-validator-2-fa-f28"
+  },
+  "/docusaurus-template/node/types-aa5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-node-types-945-de2"
+  },
+  "/docusaurus-template/oracles/supraoracles-875": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-oracles-supraoraclesfb-7-1ca"
+  },
+  "/docusaurus-template/smartContracts/deploy/foundry-f88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-deploy-foundry-291-b40"
+  },
+  "/docusaurus-template/smartContracts/deploy/hardhat-cf3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-deploy-hardhatcaf-33d"
+  },
+  "/docusaurus-template/smartContracts/deploy/remix-6a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-deploy-remix-1-f-9-5f7"
+  },
+  "/docusaurus-template/smartContracts/deploy/sameAddress-3fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-deploy-same-addressce-9-7a0"
+  },
+  "/docusaurus-template/smartContracts/deploy/truffle-693": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-deploy-trufflefeb-081"
+  },
+  "/docusaurus-template/smartContracts/EIP-2930/multicallContract-47c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-eip-2930-multicall-contract-8-b-0-857"
+  },
+  "/docusaurus-template/smartContracts/EIP-2930/solidityInterfaces-112": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-eip-2930-solidity-interfaces-156-fa0"
+  },
+  "/docusaurus-template/smartContracts/events/pollEvents-2ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-events-poll-events-51-c-3f0"
+  },
+  "/docusaurus-template/smartContracts/tokens/addressList-670": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-tokens-address-listb-8-b-5e6"
+  },
+  "/docusaurus-template/smartContracts/tokens/ERC-1155-996": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-tokens-erc-11554-e-9-7c0"
+  },
+  "/docusaurus-template/smartContracts/tokens/ERC-20-d0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-tokens-erc-20474-ef1"
+  },
+  "/docusaurus-template/smartContracts/tokens/ERC-721-67c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-smart-contracts-tokens-erc-721736-19e"
+  },
+  "/docusaurus-template/storage/crust-fa2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-storage-crust-171-2cc"
+  },
+  "/docusaurus-template/storage/ipfsAndFilecoin-10f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-storage-ipfs-and-filecoin-5-b-6-9ff"
+  },
+  "/docusaurus-template/storage/lighthouse-329": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-storage-lighthouse-5-f-7-a87"
+  },
+  "/docusaurus-template/storage/pinata-272": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-storage-pinata-913-4ef"
+  },
+  "/docusaurus-template/storage/storageEVM-254": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-storage-storage-evm-070-d19"
+  },
+  "/docusaurus-template/wallets/metamask/add-shardeum-network-e20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-metamask-add-shardeum-network-272-817"
+  },
+  "/docusaurus-template/wallets/metamask/create-account-3ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-metamask-create-accountbe-5-bbb"
+  },
+  "/docusaurus-template/wallets/metamask/installing-f34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-metamask-installing-152-4f6"
+  },
+  "/docusaurus-template/wallets/metamask/introduction-0e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-metamask-introduction-962-534"
+  },
+  "/docusaurus-template/wallets/metamask/sending-transactions-08a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-metamask-sending-transactionsfc-8-4e7"
+  },
+  "/docusaurus-template/wallets/supported-wallets-e96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-wallets-supported-wallets-484-873"
+  },
+  "/docusaurus-template/-bb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-807-150"
+  }
+}

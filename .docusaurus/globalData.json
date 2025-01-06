@@ -1,0 +1,243 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docusaurus-template/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docusaurus-template/",
+          "mainDocId": "quickstart",
+          "docs": [
+            {
+              "id": "faqs/general",
+              "path": "/docusaurus-template/faqs/general",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faqs/shardeum-liberty",
+              "path": "/docusaurus-template/faqs/shardeum-liberty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faqs/technology",
+              "path": "/docusaurus-template/faqs/technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faqs/validators",
+              "path": "/docusaurus-template/faqs/validators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faucet/claim",
+              "path": "/docusaurus-template/faucet/claim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faucet/faucetStatistics",
+              "path": "/docusaurus-template/faucet/faucetStatistics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/consensus",
+              "path": "/docusaurus-template/introduction/consensus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/dynamicstatesharding",
+              "path": "/docusaurus-template/introduction/dynamicstatesharding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/evm",
+              "path": "/docusaurus-template/introduction/evm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/opcodes",
+              "path": "/docusaurus-template/introduction/opcodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/Sharding",
+              "path": "/docusaurus-template/introduction/Sharding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/what-is-shardeum",
+              "path": "/docusaurus-template/introduction/what-is-shardeum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "network/endpoints",
+              "path": "/docusaurus-template/network/endpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "network/explorer",
+              "path": "/docusaurus-template/network/explorer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/run/archive",
+              "path": "/docusaurus-template/node/run/archive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/run/rpc",
+              "path": "/docusaurus-template/node/run/rpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/run/validator",
+              "path": "/docusaurus-template/node/run/validator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/types",
+              "path": "/docusaurus-template/node/types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oracles/supraoracles",
+              "path": "/docusaurus-template/oracles/supraoracles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart",
+              "path": "/docusaurus-template/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/deploy/foundry",
+              "path": "/docusaurus-template/smartContracts/deploy/foundry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/deploy/hardhat",
+              "path": "/docusaurus-template/smartContracts/deploy/hardhat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/deploy/remix",
+              "path": "/docusaurus-template/smartContracts/deploy/remix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/deploy/sameAddress",
+              "path": "/docusaurus-template/smartContracts/deploy/sameAddress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/deploy/truffle",
+              "path": "/docusaurus-template/smartContracts/deploy/truffle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/EIP-2930/multicallContract",
+              "path": "/docusaurus-template/smartContracts/EIP-2930/multicallContract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/EIP-2930/solidityInterfaces",
+              "path": "/docusaurus-template/smartContracts/EIP-2930/solidityInterfaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/events/pollEvents",
+              "path": "/docusaurus-template/smartContracts/events/pollEvents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/tokens/addressList",
+              "path": "/docusaurus-template/smartContracts/tokens/addressList",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/tokens/ERC-1155",
+              "path": "/docusaurus-template/smartContracts/tokens/ERC-1155",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/tokens/ERC-20",
+              "path": "/docusaurus-template/smartContracts/tokens/ERC-20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartContracts/tokens/ERC-721",
+              "path": "/docusaurus-template/smartContracts/tokens/ERC-721",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/crust",
+              "path": "/docusaurus-template/storage/crust",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/ipfsAndFilecoin",
+              "path": "/docusaurus-template/storage/ipfsAndFilecoin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/lighthouse",
+              "path": "/docusaurus-template/storage/lighthouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/pinata",
+              "path": "/docusaurus-template/storage/pinata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/storageEVM",
+              "path": "/docusaurus-template/storage/storageEVM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/metamask/add-shardeum-network",
+              "path": "/docusaurus-template/wallets/metamask/add-shardeum-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/metamask/create-account",
+              "path": "/docusaurus-template/wallets/metamask/create-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/metamask/installing",
+              "path": "/docusaurus-template/wallets/metamask/installing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/metamask/introduction",
+              "path": "/docusaurus-template/wallets/metamask/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/metamask/sending-transactions",
+              "path": "/docusaurus-template/wallets/metamask/sending-transactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wallets/supported-wallets",
+              "path": "/docusaurus-template/wallets/supported-wallets",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docusaurus-template/",
+                "label": "quickstart"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
