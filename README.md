@@ -1,4 +1,4 @@
-# Shardeum Documentation Site
+# Fluent Documentation Site
 
 This website is built using [Docusaurus 3.6.3](https://docusaurus.io/), a modern static website generator.
 
