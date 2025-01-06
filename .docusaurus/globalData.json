@@ -26,13 +26,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Knowledge Base/claim",
-              "path": "/docusaurus-template/Knowledge Base/claim",
+              "id": "Knowledge Base/claim copy 2",
+              "path": "/docusaurus-template/Knowledge Base/claim copy 2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Knowledge Base/faucetStatistics",
-              "path": "/docusaurus-template/Knowledge Base/faucetStatistics",
+              "id": "Knowledge Base/claim copy 3",
+              "path": "/docusaurus-template/Knowledge Base/claim copy 3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Knowledge Base/claim copy 4",
+              "path": "/docusaurus-template/Knowledge Base/claim copy 4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Knowledge Base/Fluent Overview",
+              "path": "/docusaurus-template/Knowledge Base/Fluent Overview",
               "sidebar": "tutorialSidebar"
             },
             {

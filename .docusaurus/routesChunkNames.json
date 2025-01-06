@@ -62,17 +62,17 @@
     },
     "content": "content---docusaurus-template-test-8-f-8-472"
   },
-  "/docusaurus-template/-127": {
+  "/docusaurus-template/-9ae": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docusaurus-template-aba-7dc"
     }
   },
-  "/docusaurus-template/-937": {
+  "/docusaurus-template/-10f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docusaurus-template-bc-4-420"
   },
-  "/docusaurus-template/-614": {
+  "/docusaurus-template/-56e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docusaurus-template/Developer Guides/supported-wallets-319": {
@@ -87,13 +87,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-template-developer-preview-connect-to-the-fluent-devnet-3-ea-a7a"
   },
-  "/docusaurus-template/Knowledge Base/claim-e1d": {
+  "/docusaurus-template/Knowledge Base/claim copy 2-0a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-knowledge-base-claim-214-10e"
+    "content": "content---docusaurus-template-knowledge-base-claim-copy-2405-82b"
   },
-  "/docusaurus-template/Knowledge Base/faucetStatistics-b69": {
+  "/docusaurus-template/Knowledge Base/claim copy 3-c24": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-knowledge-base-faucet-statistics-4-d-2-db6"
+    "content": "content---docusaurus-template-knowledge-base-claim-copy-3-d-6-d-4c1"
+  },
+  "/docusaurus-template/Knowledge Base/claim copy 4-6f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-knowledge-base-claim-copy-40-fc-cec"
+  },
+  "/docusaurus-template/Knowledge Base/Fluent Overview-fe6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-knowledge-base-fluent-overviewcde-464"
   },
   "/docusaurus-template/Resources/Glossary-6ee": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', '127'),
+    component: ComponentCreator('/docusaurus-template/', '9ae'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '937'),
+        component: ComponentCreator('/docusaurus-template/', '10f'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', '614'),
+            component: ComponentCreator('/docusaurus-template/', '56e'),
             routes: [
               {
                 path: '/docusaurus-template/Developer Guides/supported-wallets',
@@ -83,14 +83,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Knowledge Base/claim',
-                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim', 'e1d'),
+                path: '/docusaurus-template/Knowledge Base/claim copy 2',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 2', '0a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Knowledge Base/faucetStatistics',
-                component: ComponentCreator('/docusaurus-template/Knowledge Base/faucetStatistics', 'b69'),
+                path: '/docusaurus-template/Knowledge Base/claim copy 3',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 3', 'c24'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Knowledge Base/claim copy 4',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 4', '6f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Knowledge Base/Fluent Overview',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/Fluent Overview', 'fe6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
