@@ -9,7 +9,7 @@ module.exports = {
   title: 'Fluent Docs',
   tagline: 'Explore Fluent Docs',
   url: 'https://docs.fluent.org',
-  baseUrl: '/docusaurus-template/',
+  baseUrl: '/fluent-docusaurus-test/',
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'warn',
   onBrokenMarkdownLinks: 'warn',
