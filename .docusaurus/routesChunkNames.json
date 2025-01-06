@@ -62,17 +62,17 @@
     },
     "content": "content---docusaurus-template-test-8-f-8-472"
   },
-  "/docusaurus-template/-9ae": {
+  "/docusaurus-template/-ca3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docusaurus-template-aba-7dc"
     }
   },
-  "/docusaurus-template/-10f": {
+  "/docusaurus-template/-291": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docusaurus-template-bc-4-420"
   },
-  "/docusaurus-template/-56e": {
+  "/docusaurus-template/-32b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docusaurus-template/Developer Guides/supported-wallets-319": {
@@ -87,21 +87,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-template-developer-preview-connect-to-the-fluent-devnet-3-ea-a7a"
   },
-  "/docusaurus-template/Knowledge Base/claim copy 2-0a1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-knowledge-base-claim-copy-2405-82b"
-  },
-  "/docusaurus-template/Knowledge Base/claim copy 3-c24": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-knowledge-base-claim-copy-3-d-6-d-4c1"
-  },
-  "/docusaurus-template/Knowledge Base/claim copy 4-6f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-knowledge-base-claim-copy-40-fc-cec"
-  },
   "/docusaurus-template/Knowledge Base/Fluent Overview-fe6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-template-knowledge-base-fluent-overviewcde-464"
+  },
+  "/docusaurus-template/Knowledge Base/The Fluent L2 Network-e23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-knowledge-base-the-fluent-l-2-network-121-bec"
+  },
+  "/docusaurus-template/Knowledge Base/The Fluent VM-4c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-knowledge-base-the-fluent-vm-855-230"
+  },
+  "/docusaurus-template/Knowledge Base/The Fluentbase Framework-d45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-template-knowledge-base-the-fluentbase-framework-060-574"
   },
   "/docusaurus-template/Resources/Glossary-6ee": {
     "__comp": "__comp---theme-doc-item-178-a40",

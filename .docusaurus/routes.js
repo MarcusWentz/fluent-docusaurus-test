@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', '9ae'),
+    component: ComponentCreator('/docusaurus-template/', 'ca3'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', '10f'),
+        component: ComponentCreator('/docusaurus-template/', '291'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', '56e'),
+            component: ComponentCreator('/docusaurus-template/', '32b'),
             routes: [
               {
                 path: '/docusaurus-template/Developer Guides/supported-wallets',
@@ -83,26 +83,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docusaurus-template/Knowledge Base/claim copy 2',
-                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 2', '0a1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Knowledge Base/claim copy 3',
-                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 3', 'c24'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/Knowledge Base/claim copy 4',
-                component: ComponentCreator('/docusaurus-template/Knowledge Base/claim copy 4', '6f7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docusaurus-template/Knowledge Base/Fluent Overview',
                 component: ComponentCreator('/docusaurus-template/Knowledge Base/Fluent Overview', 'fe6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Knowledge Base/The Fluent L2 Network',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/The Fluent L2 Network', 'e23'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Knowledge Base/The Fluent VM',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/The Fluent VM', '4c2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docusaurus-template/Knowledge Base/The Fluentbase Framework',
+                component: ComponentCreator('/docusaurus-template/Knowledge Base/The Fluentbase Framework', 'd45'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
