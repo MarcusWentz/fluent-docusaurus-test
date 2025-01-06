@@ -1,14 +1,14 @@
 {
   "id": "introduction/what-is-shardeum",
   "title": "Overview",
-  "description": "Shardeum is an EVM based L1 that uses dynamic state sharding to achieve linearly scalability while attaining atomic composability across shards. This means Shardeum can increase its TPS capacity with each validator added to the network to retain low fees forever. Shardeum provides the highest throughput capacity of any EVM based L1 without sacrificing on decentralization. Developers can deploy and interact with Solidity or Vyper contracts without special considerations for sharding, since contracts are deployed to unique shards automatically while retaining atomic composability across all shards.",
+  "description": "---",
   "source": "@site/docs/introduction/what-is-shardeum.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/what-is-shardeum",
   "permalink": "/docusaurus-template/introduction/what-is-shardeum",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/introduction/what-is-shardeum.md",
+  "editUrl": "https://github.com/fluentlabs-xyz/docs/introduction/what-is-shardeum.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -22,7 +22,7 @@
     "permalink": "/docusaurus-template/"
   },
   "next": {
-    "title": "Sharding",
-    "permalink": "/docusaurus-template/introduction/Sharding"
+    "title": "Types",
+    "permalink": "/docusaurus-template/node/types"
   }
 }

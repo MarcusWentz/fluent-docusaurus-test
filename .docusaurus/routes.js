@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docusaurus-template/',
-    component: ComponentCreator('/docusaurus-template/', '18d'),
+    component: ComponentCreator('/docusaurus-template/', '2b6'),
     routes: [
       {
         path: '/docusaurus-template/',
-        component: ComponentCreator('/docusaurus-template/', 'f5b'),
+        component: ComponentCreator('/docusaurus-template/', 'd77'),
         routes: [
           {
             path: '/docusaurus-template/',
-            component: ComponentCreator('/docusaurus-template/', '62e'),
+            component: ComponentCreator('/docusaurus-template/', 'b52'),
             routes: [
               {
                 path: '/docusaurus-template/faqs/general',
@@ -97,36 +97,6 @@ export default [
               {
                 path: '/docusaurus-template/faucet/faucetStatistics',
                 component: ComponentCreator('/docusaurus-template/faucet/faucetStatistics', '7f3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/introduction/consensus',
-                component: ComponentCreator('/docusaurus-template/introduction/consensus', '154'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/introduction/dynamicstatesharding',
-                component: ComponentCreator('/docusaurus-template/introduction/dynamicstatesharding', '0e6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/introduction/evm',
-                component: ComponentCreator('/docusaurus-template/introduction/evm', '72e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/introduction/opcodes',
-                component: ComponentCreator('/docusaurus-template/introduction/opcodes', '988'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docusaurus-template/introduction/Sharding',
-                component: ComponentCreator('/docusaurus-template/introduction/Sharding', 'd90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

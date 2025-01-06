@@ -62,17 +62,17 @@
     },
     "content": "content---docusaurus-template-test-8-f-8-472"
   },
-  "/docusaurus-template/-18d": {
+  "/docusaurus-template/-2b6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docusaurus-template-aba-7dc"
     }
   },
-  "/docusaurus-template/-f5b": {
+  "/docusaurus-template/-d77": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docusaurus-template-bc-4-420"
   },
-  "/docusaurus-template/-62e": {
+  "/docusaurus-template/-b52": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docusaurus-template/faqs/general-2f8": {
@@ -98,26 +98,6 @@
   "/docusaurus-template/faucet/faucetStatistics-7f3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-template-faucet-faucet-statisticsdf-5-a6d"
-  },
-  "/docusaurus-template/introduction/consensus-154": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-introduction-consensus-747-75a"
-  },
-  "/docusaurus-template/introduction/dynamicstatesharding-0e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-introduction-dynamicstateshardingf-0-f-b4d"
-  },
-  "/docusaurus-template/introduction/evm-72e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-introduction-evm-143-65f"
-  },
-  "/docusaurus-template/introduction/opcodes-988": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-introduction-opcodesdc-6-6b8"
-  },
-  "/docusaurus-template/introduction/Sharding-d90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-template-introduction-sharding-4-e-3-93d"
   },
   "/docusaurus-template/introduction/what-is-shardeum-483": {
     "__comp": "__comp---theme-doc-item-178-a40",

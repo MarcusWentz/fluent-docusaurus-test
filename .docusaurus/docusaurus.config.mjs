@@ -21,7 +21,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "/home/marcuswentz/github/fluent-docusaurus-test/sidebars.js",
-          "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/"
+          "editUrl": "https://github.com/fluentlabs-xyz/"
         },
         "blog": false,
         "theme": {
@@ -75,12 +75,12 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/Fluent/Fluent-bug-reporting",
+          "href": "https://github.com/fluentlabs-xyz/",
           "label": "Report Bugs Here",
           "position": "left"
         },
         {
-          "href": "https://github.com/Fluent/Fluent-docs",
+          "href": "https://github.com/fluentlabs-xyz/",
           "label": "GitHub",
           "position": "right"
         }
@@ -165,7 +165,7 @@ export default {
       "logo": {
         "alt": "Fluent Logo",
         "src": "img/fluent.png",
-        "href": "https://github.com/Fluent",
+        "href": "https://github.com/fluentlabs-xyz/",
         "height": 100,
         "width": 100
       },

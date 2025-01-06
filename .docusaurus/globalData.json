@@ -41,31 +41,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "introduction/consensus",
-              "path": "/docusaurus-template/introduction/consensus",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/dynamicstatesharding",
-              "path": "/docusaurus-template/introduction/dynamicstatesharding",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/evm",
-              "path": "/docusaurus-template/introduction/evm",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/opcodes",
-              "path": "/docusaurus-template/introduction/opcodes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/Sharding",
-              "path": "/docusaurus-template/introduction/Sharding",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "introduction/what-is-shardeum",
               "path": "/docusaurus-template/introduction/what-is-shardeum",
               "sidebar": "tutorialSidebar"

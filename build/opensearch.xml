@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Shardeum Docs</ShortName>
-  <Description>Search Shardeum Docs</Description>
+  <ShortName>Fluent Docs</ShortName>
+  <Description>Search Fluent Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.shardeum.org/docusaurus-template/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.shardeum.org/docusaurus-template/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.shardeum.org/docusaurus-template/opensearch.xml" />
-  <moz:SearchForm>https://docs.shardeum.org/docusaurus-template/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.Fluent.org/docusaurus-template/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.Fluent.org/docusaurus-template/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.Fluent.org/docusaurus-template/opensearch.xml" />
+  <moz:SearchForm>https://docs.Fluent.org/docusaurus-template/</moz:SearchForm>
 </OpenSearchDescription>

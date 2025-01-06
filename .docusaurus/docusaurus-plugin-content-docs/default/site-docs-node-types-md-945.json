@@ -8,7 +8,7 @@
   "permalink": "/docusaurus-template/node/types",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Fluent/Fluent-docs/tree/master/docs/node/types.md",
+  "editUrl": "https://github.com/fluentlabs-xyz/docs/node/types.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Shardeum Liberty Opcodes",
-    "permalink": "/docusaurus-template/introduction/opcodes"
+    "title": "Overview",
+    "permalink": "/docusaurus-template/introduction/what-is-shardeum"
   },
   "next": {
     "title": "Validator",
