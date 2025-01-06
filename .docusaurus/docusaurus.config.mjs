@@ -65,12 +65,12 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://discord.com/invite/Fluent",
-          "label": "Claim Testnet SHM Discord Faucet",
+          "href": "https://faucet.dev.gblend.xyz/",
+          "label": "Claim Testnet ETH Faucet",
           "position": "left"
         },
         {
-          "href": "https://airtable.com/shrIXaaf87BzaTfYy",
+          "href": "https://www.google.com/",
           "label": "List dApp on Ecosystem Page",
           "position": "left"
         },
@@ -118,16 +118,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Telegram",
-              "to": "https://t.me/Fluent"
-            },
-            {
               "label": "Discord",
-              "to": "https://discord.com/invite/Fluent"
-            },
-            {
-              "label": "Twitter",
-              "to": "https://twitter.com/Fluent"
+              "to": "https://discord.com/invite/fluentxyz"
             }
           ]
         },
@@ -165,7 +157,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "to": "https://github.com/Fluent"
+              "to": "https://github.com/fluentlabs-xyz/"
             }
           ]
         }

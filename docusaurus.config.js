@@ -26,7 +26,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Fluent/Fluent-docs/tree/master/',
+          editUrl: 'https://github.com/fluentlabs-xyz/',
         },
         blog:false,
         theme: {
@@ -90,13 +90,13 @@ module.exports = {
             // className: 'navbar_item_1',
           },
           {
-            href: 'https://github.com/Fluent/Fluent-bug-reporting',
+            href: 'https://github.com/fluentlabs-xyz/',
             label: 'Report Bugs Here',
             position: 'left',
             // className: 'navbar_item_2',
           },
           {
-            href: 'https://github.com/Fluent/Fluent-docs',
+            href: 'https://github.com/fluentlabs-xyz/',
             label: 'GitHub',
             position: 'right',
           },
@@ -184,7 +184,7 @@ module.exports = {
               },
               {
                 label: 'GitHub',
-                to: 'https://github.com/Fluent',
+                to: 'https://github.com/fluentlabs-xyz/',
               },
             ],
           },
@@ -192,7 +192,7 @@ module.exports = {
         logo: {
           alt: 'Fluent Logo',
           src: 'img/fluent.png',
-          href: 'https://github.com/Fluent',
+          href: 'https://github.com/fluentlabs-xyz/',
           height: 100,
           width: 100
         },
