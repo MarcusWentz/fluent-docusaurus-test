@@ -44,17 +44,13 @@ Select the option that aligns with your preferred programming language for smart
     <tbody>
         <tr>
             <td align="center">
-                <a href="solidity-developer-guide.md"><strong>Solidity</strong></a>
+                <a href="solidity"><strong>Solidity</strong></a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
-                <a href="rust-developer-guide.md"><strong>Rust</strong></a>
+                <a href="rust"><strong>Rust</strong></a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
-                <a href="vyper-developer-guide.md"><strong>Vyper</strong></a>
+                <a href="vyper"><strong>Vyper</strong></a>
             </td>
         </tr>
     </tbody>
