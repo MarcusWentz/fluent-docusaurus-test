@@ -16,57 +16,18 @@ Fluent’s unique value proposition lies in its ability to:
 
 Fluent supports atomic composability between apps targeting different VMs, and “blended” apps composed of smart contracts mixed and matched between them. Interaction between the different types of contracts the network supports happens under the hood and is both atomic and happens in real-time.&#x20;
 
-<!-- <table data-column-title-hidden data-view="cards">
-    <tbody>
-        <tr><td align="center">
-            <strong>
-                <a href="the-fluent-vm.md">
-                    The Virtual Machine
-                </a>
-            </strong>
-        </td>
-        </tr>
-        <tr><td align="center">
-            <strong>
-                <a href="the-fluent-l2-network.md">
-                    The Layer 2 Network
-                </a>
-            </strong>
-        </tr>
-        </td>
-        <td align="center">
-            <strong>
-                <a href="the-fluentbase-framework.md">
-                    The Development Framework
-                </a>
-            </strong>
-        </td>
-    </tbody>
-</table> -->
-
 <table data-column-title-hidden data-view="cards">
     <tbody>
         <tr>
             <td align="center">
-                <strong>
-                    <a href="the-fluent-vm.md">The Virtual Machine</a>
-                </strong>
+                <a href="the-fluent-vm">The Virtual Machine</a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
-                <strong>
-                    <a href="the-fluent-l2-network.md">The Layer 2 Network</a>
-                </strong>
+                <a href="the-fluent-l2-network">The Layer 2 Network</a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
-                <strong>
-                    <a href="the-fluentbase-framework.md">The Development Framework</a>
-                </strong>
+                <a href="the-fluentbase-framework">The Development Framework</a>
             </td>
         </tr>
     </tbody>
 </table>
-
