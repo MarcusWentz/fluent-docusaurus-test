@@ -11,7 +11,7 @@
 
   --ifm-code-font-size: 95%;
 
-  --ifm-color-primary: #00FF00;
+  --ifm-color-primary: #00bbff;
 
   --ifm-color-primary-dark: #707070;
   --ifm-color-primary-darker: #606060;
@@ -23,16 +23,16 @@
 
 }
 
-[data-theme='light'] { /* Overriding root Infima variables */
-  --ifm-background-color: #FFFFFF;
-  --ifm-background-surface-color: #FFFFFF;
-  --ifm-color-primary: #FF0000;
+html[data-theme='dark'] { /* Overriding root Infima variables */
+  --ifm-background-color: #260079;
+  --ifm-background-surface-color: #260079;
+  --ifm-color-scheme: light;
 }
 
-html[data-theme='dark'] {
-  --ifm-background-color: #000000;
-  --ifm-background-surface-color: #151515;
-  --ifm-color-scheme: light;
+[data-theme='light'] { /* Overriding root Infima variables */
+  --ifm-color-primary: #260079;
+  --ifm-background-color: #00bbff;
+  --ifm-background-surface-color: #00bbff;
 }
 
 body,
@@ -244,7 +244,7 @@ img[alt*="claim_8"] {
 }
 
 [data-theme='dark'] .buttonHighContrast {
-  background-color: #00FFFF;
+  background-color: #00FF00;
   border: none;
   color: black;
   padding: 15px 32px;
