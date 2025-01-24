@@ -73,31 +73,31 @@ module.exports = {
         items: [
           {
             href: 'https://chainlist.org/?search=fluent&testnets=true',
-            label: 'Connect to Fluent',
+            label: 'Connect',
             position: 'left',
             // className: 'navbar_item_button',
           },
           {
             href: 'https://faucet.dev.gblend.xyz/',
-            label: 'Claim Testnet ETH Faucet',
+            label: 'Faucet',
             position: 'left',
             // className: 'navbar_item_button',
           },
           {
             href: 'https://blockscout.dev.gblend.xyz/',
-            label: 'Block Explorer',
+            label: 'Blockscout',
             position: 'left',
             // className: 'navbar_item_button',
           },
           {
-            href: 'https://www.google.com/',
-            label: 'List dApp on Ecosystem Page',
+            href: 'https://defillama.com/chain/Ethereum',
+            label: 'Ecosystem',
             position: 'left',
             // className: 'navbar_item_1',
           },
           {
             href: 'https://discord.com/invite/fluentxyz',
-            label: 'Community',
+            label: 'Discord',
             position: 'left',
             // className: 'navbar_item_2',
           },
