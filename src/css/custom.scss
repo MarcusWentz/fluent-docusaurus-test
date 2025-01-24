@@ -9,9 +9,13 @@
 /* You can override the default Infima variables here. */
 :root {
 
-  --ifm-code-font-size: 95%;
-
+  // Custom color testing
   --ifm-color-primary: #00bbff;
+
+  // // Brand color testing
+  // --ifm-color-primary: #49EDED;
+
+  --ifm-code-font-size: 95%;
 
   --ifm-color-primary-dark: #707070;
   --ifm-color-primary-darker: #606060;
@@ -24,15 +28,30 @@
 }
 
 html[data-theme='dark'] { /* Overriding root Infima variables */
+  
+  // // Brand color testing
+  // --ifm-background-color: #3700ff;
+  // --ifm-background-surface-color: #3700ff;
+
+  // Custom color testing
   --ifm-background-color: #260079;
   --ifm-background-surface-color: #260079;
+
   --ifm-color-scheme: light;
 }
 
 [data-theme='light'] { /* Overriding root Infima variables */
+
+  // // Brand color testing
+  // --ifm-color-primary: #3700ff;
+  // --ifm-background-color: #49EDED;
+  // --ifm-background-surface-color: #49EDED;
+
+  // Custom color testing
   --ifm-color-primary: #260079;
   --ifm-background-color: #00bbff;
   --ifm-background-surface-color: #00bbff;
+
 }
 
 body,
