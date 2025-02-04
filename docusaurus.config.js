@@ -4,12 +4,19 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const isGitHubPages = !!process.env.GITHUB_ACTIONS; // Auto-detect GitHub Actions
+
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
   title: 'Fluent Docs',
   tagline: 'Explore Fluent Docs',
   url: 'https://docs.fluent.org',
-  baseUrl: '/fluent-docusaurus-test/',
+  // // GitHub Pages baseUrl.
+  // baseUrl: '/fluent-docusaurus-test/',
+  // // Vercel baseUrl.
+  // baseUrl: '/',
+  // Test if logic to switch between GitHub Page and Vercel baseUrl values.
+  baseUrl: isGitHubPages ? `/docusaurus-template/` : "/",
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'warn',
   onBrokenMarkdownLinks: 'warn',
