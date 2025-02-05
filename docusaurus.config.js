@@ -33,7 +33,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/fluentlabs-xyz/',
+          editUrl: 'https://github.com/MarcusWentz/fluent-docusaurus-test/blob/main/',
         },
         blog:false,
         theme: {
